@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h3 align="left">Opa 👋! Meu Nome é Gabe e eu moro no Sul 👍</h3>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/ff62f045885079.584030cf0ed03.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/ae/db/d8/aedbd86d0ddd24057431a31a6de94a32.gif"  />
 
 ###
 
